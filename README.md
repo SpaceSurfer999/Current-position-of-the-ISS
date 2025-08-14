@@ -6,3 +6,9 @@
 - Показывает текущие координаты МКС
 - Выводит список космонавтов на борту
 - Обновляет данные
+
+## 📜 License / Лицензия
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Этот проект распространяется под лицензией MIT - подробности см. в файле [LICENSE](LICENSE).
